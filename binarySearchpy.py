@@ -22,35 +22,3 @@ def binary_search(list1, low, high, n):
   
    else:   
       return -1
-
-
-# Ask input
-
-
-# num = int(input("Enter the lenght of the array"))
-
-# arr = [None]*num
- 
-# i = 0
-
-# while i<num:
-
-#     inp = input("Enter the num: ")
-
-#     try:
-#         arr[i]= (int(inp))
-#         i += 1
-
-#     except:
-#         print("Please Enter a valid input")
-
-
-arr = random.
-
-print(arr)
-
-sortedArr = arr.sort()
-
-
-print(binary_search(sortedArr, 0, len(sortedArr)-1, num))
-
